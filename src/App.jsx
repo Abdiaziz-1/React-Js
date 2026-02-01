@@ -1,9 +1,11 @@
+import Blog from "./Components/Blog";
 import UserCard from "./UserCard";
 
 function App() {
   return(
     <div>
-    <UserCard />
+    {/* <UserCard /> */}
+    <Blog />
     
     </div>
   )
